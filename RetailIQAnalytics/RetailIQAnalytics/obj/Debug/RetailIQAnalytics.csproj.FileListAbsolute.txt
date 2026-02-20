@@ -1,0 +1,16 @@
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.csproj.AssemblyReference.cache
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.Properties.Resources.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.csproj.GenerateResource.cache
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.csproj.CoreCompileInputs.cache
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\bin\Debug\RetailIQAnalytics.exe.config
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\bin\Debug\RetailIQAnalytics.exe
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\bin\Debug\RetailIQAnalytics.pdb
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.exe
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.pdb
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.LoginForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.RegisterForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.ExecutiveDashboardForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.UsersForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.InventoryTransactionsForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.ProductsForm.resources
+D:\RetailIQAnalytics\RetailIQAnalytics\RetailIQAnalytics\obj\Debug\RetailIQAnalytics.UI.CategoriesForm.resources
